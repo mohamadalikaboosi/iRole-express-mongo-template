@@ -22,9 +22,9 @@
   "author": "samb2 and mohamad_ka",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mohamadalikaboosi/iRole-express-mongo-template.git/issues"
+    "url": "https://github.com/mohamadalikaboosi/iRole-express-mongo-template/issues"
   },
-  "homepage": "https://github.com/mohamadalikaboosi/iRole-express-mongo-template.git#readme",
+  "homepage": "https://github.com/mohamadalikaboosi/iRole-express-mongo-template#readme",
   "dependencies": {
     "@types/bcrypt": "^5.0.0",
     "@types/body-parser": "^1.19.2",
